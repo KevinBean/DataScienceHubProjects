@@ -1,0 +1,1 @@
+This is a project from https://thecleverprogrammer.com/2022/05/31/smartwatch-data-analysis-using-python/.
